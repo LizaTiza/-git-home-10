@@ -34,7 +34,8 @@ tbody tr td:nth-child(3){
  }
  p{
     color: rgb(228, 179, 179);
-    font-size: 18px ;
+    font-size: 16px;
+    margin-bottom: 5%;
 
    
  }
